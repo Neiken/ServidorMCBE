@@ -1,0 +1,29 @@
+2022-07-28 01:12:21.722 [main] INFO  - Loading §anukkit.yml§f ...
+2022-07-28 01:12:21.984 [main] INFO  - Loading §aserver.properties§f ...
+2022-07-28 01:12:22.093 [main] INFO  - Selected English (eng) as the base language
+2022-07-28 01:12:22.095 [main] INFO  - Starting Minecraft: BE server version §bv1.19.10§r
+2022-07-28 01:12:22.126 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2022-07-28 01:12:22.263 [main] INFO  - Opening server on 0.0.0.0:50000
+2022-07-28 01:12:22.337 [main] INFO  - This server is running Nukkit version §egit-ab48104§f "§b§f" (API 1.0.14)
+2022-07-28 01:12:22.339 [main] INFO  - Nukkit is distributed under the GPL License
+2022-07-28 01:12:23.167 [main] INFO  - Loading runtime items...
+2022-07-28 01:12:24.046 [main] INFO  - Loading recipes...
+2022-07-28 01:12:24.767 [main] INFO  - Loaded 1509 recipes.
+2022-07-28 01:12:24.784 [main] INFO  - Successfully loaded 0 resource packs
+2022-07-28 01:12:25.135 [main] WARN  - Failed to find a usable hardware address from the network interfaces; using random bytes: 7a:a7:93:ff:0b:82:bc:1f
+2022-07-28 01:12:25.323 [main] INFO  - Loading Plugin v0.0.1
+2022-07-28 01:12:25.454 [main] INFO  - Preparing level "§aworld§f"
+2022-07-28 01:12:25.540 [main] INFO  - Preparing start region for level "world"
+2022-07-28 01:12:25.625 [main] INFO  - Preparing level "§anether§f"
+2022-07-28 01:12:25.631 [main] INFO  - Preparing start region for level "nether"
+2022-07-28 01:12:25.667 [main] INFO  - Enabling Plugin v0.0.1
+2022-07-28 01:12:25.693 [main] INFO  - [Plugin] §aPlugin Enabled
+2022-07-28 01:12:25.736 [main] INFO  - Starting GS4 status listener
+2022-07-28 01:12:25.738 [main] INFO  - Setting query port to 50000
+2022-07-28 01:12:25.740 [main] INFO  - Query is running on 0.0.0.0:50000
+2022-07-28 01:12:25.742 [main] INFO  - Default game type: Survival Mode
+2022-07-28 01:12:25.751 [main] INFO  - Done (4.23s)! For help, type "help" or "?"
+2022-07-28 01:12:27.305 [main] INFO  - Disabling Plugin v0.0.1
+2022-07-28 01:12:27.309 [main] INFO  - Unloading level "§aworld§f"
+2022-07-28 01:12:27.357 [main] INFO  - Unloading level "§anether§f"
+2022-07-28 01:12:27.391 [main] INFO  - Stopping other threads
